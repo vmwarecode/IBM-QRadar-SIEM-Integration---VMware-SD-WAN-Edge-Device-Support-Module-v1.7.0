@@ -1,0 +1,21 @@
+{
+  "doc" : {
+    "extension_manifest" : {
+      "min_qradar_version" : "2020.7.0.20201113144954",
+      "authored_by" : "slaszlo",
+      "authored_by_email" : "sase-siem-integration@vmware.com",
+      "package_size" : "0",
+      "supported_language_set" : [ "en-US" ],
+      "extension_name" : "extension.name",
+      "extension_long_description" : "extension.long.description",
+      "locale" : {
+        "en-US" : {
+          "extension.long.description" : "This DSM contains security event mappings for VMware SD-WAN Edge appliances.",
+          "extension.name" : "VMware SD-WAN Edge"
+        }
+      },
+      "version" : "1.7.0"
+    }
+  },
+  "_id" : "slaszlo:VMware SD-WAN Edge"
+}
